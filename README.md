@@ -1,2 +1,2 @@
 # 1clickCOPY
-copy all text with 1 click and without opening or closing any file or field
+1clickCopy to manage wallets better.
